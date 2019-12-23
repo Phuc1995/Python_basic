@@ -1,0 +1,40 @@
+Tuple:
+	- contain every value
+	- access speed faster than the list
+	- use memory less than the list
+	- cover value avoid to change
+	- can be use for key of dictionary
+
+- for - else
+
+- clock, sleep
+
+- exit
+
+- eval
+
+- from DocumentFunction import*
+	+ help()
+
+- global in def
+
+- lambda:
+	def handle(f,x):
+	return f(x)
+
+-String
+	+ s.strip() (xoa khoang trang)
+	+ s.find (vi tri dau tien), s.rfind(vi tri cuoi cung) (ko co -1)
+	+ s.count() (ko ton tai 0)
+	+ s.split()
+	+ s.a.splitlines() (tach nhieu dong)
+	+ s.join()
+List 
+	+ lst.insert()
+	+ lst.append()
+	+ lst.remove()
+	+ lst.reverse()
+	+ lst.sort() (new list)
+
+OOP:
+	+ @staticmethod --> def function(seft)
